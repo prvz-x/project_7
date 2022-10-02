@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+}
+header{
+   overflow: hidden;
+}
+.logo{
+   width: 20%;
+   height: 70px;
+   background-color: #0298F6;
+   text-align: center;
+   font-size: 50px;
+   color: chartreuse;
+   float: left;
+}
+.menu{
+   width: 80%;
+   height: 70px;
+   background-color: #2daaf8;
+   text-align: center;
+   font-size: 50px;
+   color: chartreuse;
+   float: right;
+}
+.block{
+   overflow: hidden;
+}
+.left_block{
+   width: 30%; 
+   height: 500px;
+   background-color: #338bc2;
+   text-align: center;
+   color: chartreuse;
+   float: left;
+}
+.right_block{
+   width: 70%; 
+   height: 500px;
+   background-color: #015d96;
+   text-align: center;
+   color: chartreuse;
+   float: right;
+   overflow: hidden;
+}
+.top_block{
+     height: 350px;
+}
+.bottom_block{
+     height: 150px;
+     overflow: hidden;
+}
+.x_block{
+   width: 33.33%;
+   height: 150px;
+   background-color:wheat ;
+   text-align: center;
+   color: chartreuse;
+   float: left;
+}
+.y_block{
+    width: 33.33%;
+   height: 150px;
+   background-color: aliceblue;
+   text-align: center;
+   color: chartreuse;
+   float: left;
+}
+.z_block{
+    width: 33.33%;
+   height: 150px;
+   background-color: wheat;
+   text-align: center;
+   color: chartreuse;
+   float: left;
+}
+footer{
+   height: 50px;
+   background-color: black;
+   text-align: center;
+   color: chartreuse;
+}
